@@ -1,0 +1,19 @@
+# Keil library files and build artifacts
+/DebugConfig
+/lib
+/Listings
+/Objects
+/RTE
+/Drivers/DebugConfig
+/Drivers/lib
+/Drivers/Listings
+/Drivers/Objects
+/Drivers/RTE
+
+# Keil uVision files
+/*.uvguix.Nick
+/*.uvoptx
+/*.uvprojx
+
+# Windows files
+/*.TMP
