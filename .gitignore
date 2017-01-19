@@ -9,6 +9,7 @@
 /Drivers/Listings
 /Drivers/Objects
 /Drivers/RTE
+/Drivers/.*
 /_.*
 
 # Keil uVision files
