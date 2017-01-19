@@ -12,6 +12,7 @@
 /Drivers/.*
 /Drivers/*/.*
 /Drivers/*/lib/.*
+/Drivers/*/test/.*
 /Drivers/SPI_project.uvguix.Nick
 /Drivers/SPI_project.uvoptx
 /Drivers/SPI_project.uvprojx
