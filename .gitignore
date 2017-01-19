@@ -9,8 +9,8 @@
 /Drivers/Listings
 /Drivers/Objects
 /Drivers/RTE
-/Drivers/.DS_Store
 /Drivers/.*
+/Drivers/*/.*
 /Drivers/SPI_project.uvguix.Nick
 /Drivers/SPI_project.uvoptx
 /Drivers/SPI_project.uvprojx
