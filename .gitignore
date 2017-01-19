@@ -9,8 +9,13 @@
 /Drivers/Listings
 /Drivers/Objects
 /Drivers/RTE
-/Drivers/.*
-/_.*
+/Drivers/.DS_Store
+/Drivers/._.DS_Store
+/Drivers/._makefile
+/Drivers/._unity
+/Drivers/SPI_project.uvguix.Nick
+/Drivers/SPI_project.uvoptx
+/Drivers/SPI_project.uvprojx
 
 # Keil uVision files
 /*.uvguix.Nick
