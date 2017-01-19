@@ -10,9 +10,7 @@
 /Drivers/Objects
 /Drivers/RTE
 /Drivers/.DS_Store
-/Drivers/._.DS_Store
-/Drivers/._makefile
-/Drivers/._unity
+/Drivers/.*
 /Drivers/SPI_project.uvguix.Nick
 /Drivers/SPI_project.uvoptx
 /Drivers/SPI_project.uvprojx
